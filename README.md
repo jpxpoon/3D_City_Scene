@@ -1,11 +1,10 @@
- ECS 175
-12Assignment 4
+ECS 175
+Assignment 4
 
 Jonathan Poon
 
 Email:	jpxpoon@ucdavis.edu
 Student ID:	997403574
-
 
 Commands to create makefile compile run:
 
