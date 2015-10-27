@@ -30,3 +30,5 @@ References are on header of MilkshapeModel.cpp
 
 Thank you.
 
+Demo link:
+https://www.dropbox.com/sh/13s98s8ai3hoypd/AAAL2konny6CuKmQ5YYQG-0Ea?dl=0
