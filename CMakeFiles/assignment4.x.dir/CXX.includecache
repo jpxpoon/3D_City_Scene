@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/MilkshapeModel.cpp
+OpenGL/gl.h
+-
+GL/gl.h
+-
+iostream
+-
+fstream
+-
+MilkshapeModel.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/MilkshapeModel.h
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/MilkshapeModel.h
+Model.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/Model.h
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/Model.cpp
+OpenGL/gl.h
+-
+GL/gl.h
+-
+iostream
+-
+Model.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/Model.h
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/Model.h
+car.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/car.h
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/bitmap/bitmap.h
+iostream
+-
+fstream
+-
+string
+-
+cstring
+-
+stdint.h
+-
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/car.cpp
+math.h
+-
+car.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/car.h
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/car.h
+iostream
+-
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/draw.cpp
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GLUT/glut.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+iostream
+-
+algorithm
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cmath
+-
+draw.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/draw.h
+car.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/car.h
+MilkshapeModel.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/MilkshapeModel.h
+Model.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/Model.h
+bitmap/bitmap.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/bitmap/bitmap.h
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/draw.h
+GLUT/glut.h
+-
+iostream
+-
+
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/main.cpp
+iostream
+-
+draw.h
+/Users/jonathanpoon/Documents/UC Davis/ecs175/4/draw.h
+
